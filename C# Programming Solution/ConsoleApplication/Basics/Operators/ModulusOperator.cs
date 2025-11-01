@@ -1,4 +1,4 @@
-﻿namespace ConsoleApplication.Operators
+﻿namespace ConsoleApplication.Basics.Operators
 {
     public class ModulusOperator
     {

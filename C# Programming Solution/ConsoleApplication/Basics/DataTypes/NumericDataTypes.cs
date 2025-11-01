@@ -1,4 +1,4 @@
-﻿namespace ConsoleApplication.DataTypes
+﻿namespace ConsoleApplication.Basics.DataTypes
 {
     public class NumericDataTypes
     {

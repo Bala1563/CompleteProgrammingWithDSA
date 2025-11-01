@@ -1,4 +1,4 @@
-﻿namespace ConsoleApplication.Exercises
+﻿namespace ConsoleApplication.Basics.Exercises
 {
     public class OddOrEvenChecker
     {
